@@ -1,8 +1,12 @@
 ## Shubh Khandelwal
 
-**ShUbHkHaNdElWaL493/ShUbHkHaNdElWaL493** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there!  
+My name is Shubh Khandelwal.  
+I am a robotics enthusiast and am curious about new aspects and facets of robotics.  
+I have showcased some of my projects here.  
 
-Here are some ideas to get you started:
+# About Me
+Here are some ideas to get you started :
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
