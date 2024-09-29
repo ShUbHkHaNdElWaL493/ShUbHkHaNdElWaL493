@@ -2,7 +2,7 @@
 
 Hello there!  
 My name is Shubh Khandelwal.  
-I am a robotics enthusiast and am curious about new aspects and facets of robotics.  
+I am a robotics enthusiast and am curious about new aspects of programming.  
 I have showcased some of my projects here.  
 
 ## About Me
