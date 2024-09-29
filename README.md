@@ -1,11 +1,11 @@
-## Shubh Khandelwal
+# Shubh Khandelwal
 
 Hello there!  
 My name is Shubh Khandelwal.  
 I am a robotics enthusiast and am curious about new aspects and facets of robotics.  
 I have showcased some of my projects here.  
 
-# About Me
+## About Me
 Here are some ideas to get you started :
 
 - 🔭 I’m currently working on ...
