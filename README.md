@@ -9,6 +9,6 @@ I have showcased some of my projects here.
 
 ### Personal Information
 - 📅 Date Of Birth: 15/12/2002
-- 📞 Contact: +91 --9416060103 --9171900040
-- 📧 Email: vignesharavindh72@gmail.com
+- 📞 Contact: +919416060103, +919171900040
+- 📧 Email: shubh4664@gmail.com
 - LinkedIn
