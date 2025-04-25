@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋! I'm Shubh Khandelwal</h1>
 <h3 align="center">Robotics Engineer and AI/ML Enthusiast</h3>
-<h3 align="center">Pre-Final Year B-Tech student from IIITDM Chennai</h3>
+<h3 align="center">Pre-Final Year B-Tech CS Engineer from IIITDM Chennai</h3>
 
 
 <h4 align="center">Feel free to connect with me here:</h4>
