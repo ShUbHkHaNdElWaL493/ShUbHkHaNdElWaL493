@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋 I'm Shubh Khandelwal
 
-<!--
-**ShUbHkHaNdElWaL493/ShUbHkHaNdElWaL493** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Software Engineer** passionate about building innovative and impactful solutions using technology. I specialize in a variety of tools and languages, focusing on **Robotics, Embedded Systems, and AI**.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Skills
+- **Languages**: C, C++, Python
+- **Robotics**: ROS, ROS2, Gazebo, Rviz
+- **AI/ML**: OpenCV, PyTorch, Scikit-learn
+- **Embedded Programming**: Arduino, STM32, ESP32, Hardware interfacing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+Here are a few of my notable projects that I'm currently working on:
+
+- [**Project Name 1**](link_to_project) - A brief description of what this project does and how it showcases your skills.
+- [**Project Name 2**](link_to_project) - A brief description of this project’s impact and features.
+- [**Project Name 3**](link_to_project) - A brief description or highlight of this project.
+
+## 🌐 Connect with Me
+- **LinkedIn**: [Shubh Khandelwal](https://www.linkedin.com/in/shubh--khandelwal/)
+- **Email**: [shubh4664@gmail.com](mailto:shubh4664@gmail.com)
+
+Feel free to reach out if you'd like to connect!
+
