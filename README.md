@@ -17,7 +17,7 @@
 <span style="font-size: 1.2em;">[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert-brightgreen)](https://your-link-here)</span>
 <span style="font-size: 1.2em;">[![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Proficient-blue)](https://your-link-here)</span>
 <span style="font-size: 1.2em;">[![Python](https://img.shields.io/badge/Python-Advanced-orange)](https://your-link-here)</span>
-<span style="font-size: 1.2em;">[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Skilled-yellow)](https://your-link-here)</span>
+<span style="font-size: 1.2em;">[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Skilled-yellow)]</span>
 <span style="font-size: 1.2em;">[![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Proficient-brightblue)](https://your-link-here)</span>
 <span style="font-size: 1.2em;">[![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-Knowledgeable-lightgrey)](https://your-link-here)</span>
 <span style="font-size: 1.2em;">[![SQL](https://img.shields.io/badge/SQL-Competent-blueviolet)](https://your-link-here)</span>
