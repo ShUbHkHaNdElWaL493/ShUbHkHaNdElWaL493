@@ -3,7 +3,7 @@
 I am a **Software Engineer** from IIITDM Kancheepuram, passionate about building innovative and impactful solutions using technology. I specialize in a variety of tools and languages, focusing on **Robotics, Embedded Systems, and AI**.
 
 ## 🛠️ Technologies & Skills
-- **Languages**: C, C++, Python
+- **Languages**: C, C++, CMake, Python
 - **Robotics**: ROS, ROS2, Gazebo, Rviz
 - **AI/ML**: OpenCV, PyTorch, Scikit-learn, Tensorflow
 - **Embedded Programming**: Arduino, STM32, ESP32, Hardware interfacing
