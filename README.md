@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Shubh Khandelwal
+# Hi there 👋! I'm Shubh Khandelwal
 
 I am a **Software Engineer** from IIITDM Kancheepuram, passionate about building innovative and impactful solutions using technology. I specialize in a variety of tools and languages, focusing on **Robotics, AI/ML, and Embedded Systems**.
 
