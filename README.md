@@ -1,6 +1,6 @@
 # Hello there!
 
-I'm Shubh Khandelwal. I am a **Software Engineer** from IIITDM Kancheepuram, passionate about building innovative and impactful solutions using technology. I specialize in a variety of tools and languages, focusing on **Robotics, AI/ML, and Embedded Systems**.
+I'm Shubh Khandelwal. I like engineering.
 
 ## 🛠️ Technologies & Skills
 - **Languages**: C, C++, CMake, Python
@@ -12,4 +12,5 @@ I'm Shubh Khandelwal. I am a **Software Engineer** from IIITDM Kancheepuram, pas
 - **LinkedIn**: [Shubh Khandelwal](https://www.linkedin.com/in/shubh--khandelwal/)
 - **Email**: [shubh4664@gmail.com](mailto:shubh4664@gmail.com)
 
-Feel free to reach out if you'd like to connect or contribute to one of my projects!
+Looking forward to meeting new people and getting new experiences.
+If you feel the same way, feel free to reach out!
