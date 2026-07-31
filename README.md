@@ -5,7 +5,7 @@ I'm Shubh Khandelwal. I like engineering.
 ## 🛠️ Technologies & Skills
 - **Languages**: C, C++, CMake, Python
 - **Robotics**: ROS, ROS2, Gazebo, MoveIt2
-- **AI/ML**: OpenCV, PyTorch, Scikit-learn, Tensorflow
+- **AI/ML**: OpenCV, PyTorch, Gymnasium, Tensorflow
 - **Embedded Programming**: Arduino, STM32, ESP32, Hardware interfacing
 
 ## 🌐 Connect with Me
