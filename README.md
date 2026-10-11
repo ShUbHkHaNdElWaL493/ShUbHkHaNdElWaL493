@@ -3,10 +3,12 @@
 I'm Shubh Khandelwal. I like engineering.
 
 ## 🛠️ Technologies & Skills
-- **Languages**: C, C++, CMake, Python
-- **Robotics**: ROS, ROS2, Gazebo, MoveIt2
-- **AI/ML**: OpenCV, PyTorch, Gymnasium, Tensorflow
-- **Embedded Programming**: Arduino, STM32, ESP32, Hardware interfacing
+- **Robotics Frameworks:** ROS2, ROS, microROS, Rosserial, RTDE
+- **Simulation Modules:** Gazebo, Unity, URSim
+- **Embedded Systems:** Arduino boards, STM32 boards and ESP32 boards
+- **Machine Learning Modules:** Pytorch, Tensorflow, Gymnasium, OpenCV
+- **Languages:** C++, CUDA C++, Python, URScript, Xacro
+- **Developer Tools:** Git, Github, Gitlab, CI/CD, Docker, CMake, Bash
 
 ## 🌐 Connect with Me
 - **LinkedIn**: [Shubh Khandelwal](https://www.linkedin.com/in/shubh--khandelwal/)
